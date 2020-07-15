@@ -12,7 +12,7 @@ namespace Maria.Editor
     {
         //--------------------------------------------------------------------------------------
         // Constants
-        private static readonly string SOPHIA_INSTALL_LOCATION = "C:\\DAE\\bin\\" + Application.unityVersion + "\\";
+        private static readonly string MARIA_INSTALL_LOCATION = "C:\\DAE\\bin\\" + Application.unityVersion + "\\";
 
         //--------------------------------------------------------------------------------------
         // Properties
@@ -44,7 +44,7 @@ namespace Maria.Editor
             //
             // Flag that we are running the application
             //
-            IsRunning = plugin_handler.initialize(SOPHIA_INSTALL_LOCATION);
+            IsRunning = plugin_handler.initialize(MARIA_INSTALL_LOCATION);
         }
 
         //--------------------------------------------------------------------------------------

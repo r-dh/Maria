@@ -10,7 +10,7 @@ namespace Maria.Editor
         //--------------------------------------------------------------------------------------
         // Constants
         public static readonly string UNITY_PLUGIN_LOCATION = Application.dataPath + "\\Plugins\\";
-        public static readonly string SOPHIA_PLUGIN_LOCATION = "maria\\";
+        public static readonly string MARIA_PLUGIN_LOCATION = "maria\\";
 
         private static readonly float PLUGIN_FLUSH_INTERVAL = 4.0f;
         private static readonly float PLUGIN_VALIDATE_INTERVAL = 3600.0f;
@@ -38,7 +38,7 @@ namespace Maria.Editor
         //--------------------------------------------------------------------------------------
         public bool initialize(string installLocation)
         {
-            if(!Directory.Exists(UNITY_PLUGIN_LOCATION + SOPHIA_PLUGIN_LOCATION))
+            if(!Directory.Exists(UNITY_PLUGIN_LOCATION + MARIA_PLUGIN_LOCATION))
             {
                 Debug.LogWarning("Please move \"Maria\" plugins inside a \"Maria\" subdirectory folder. eg: \"Assets/Plugins/maria/maria_core.dll\"");
                 return false;
@@ -59,7 +59,7 @@ namespace Maria.Editor
 
                 Directory.CreateDirectory(install_location);
 
-                foreach (string file_path in Directory.GetFiles(UNITY_PLUGIN_LOCATION + SOPHIA_PLUGIN_LOCATION))
+                foreach (string file_path in Directory.GetFiles(UNITY_PLUGIN_LOCATION + MARIA_PLUGIN_LOCATION))
                 {
                     if (plugin_type == PluginType.DEBUG)
                     {
@@ -86,8 +86,8 @@ namespace Maria.Editor
                 }
             }
 
-            plugin_validator = new PluginValidator(UNITY_PLUGIN_LOCATION + SOPHIA_PLUGIN_LOCATION, plugin_type);
-            plugin_loader = new PluginLoader(install_location, UNITY_PLUGIN_LOCATION + SOPHIA_PLUGIN_LOCATION, plugin_type);
+            plugin_validator = new PluginValidator(UNITY_PLUGIN_LOCATION + MARIA_PLUGIN_LOCATION, plugin_type);
+            plugin_loader = new PluginLoader(install_location, UNITY_PLUGIN_LOCATION + MARIA_PLUGIN_LOCATION, plugin_type);
             plugin_loader.onFinishedLoading += onPluginsLoaded;
             plugin_loader.onFileDeleted += onPluginRemoved;
 
