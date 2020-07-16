@@ -3,13 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maria.Core", "Maria.Core\Maria.Core.csproj", "{5EDE5834-BDCB-478A-880E-D6F9506B7131}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maria.Core", "Maria.Core\Maria.Core.csproj", "{5EDE5834-BDCB-478A-880E-D6F9506B7131}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maria.Editor", "Maria.Editor\Maria.Editor.csproj", "{96738FDD-01C8-4DBE-83CB-D3CD8E8E9A24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maria.Editor", "Maria.Editor\Maria.Editor.csproj", "{96738FDD-01C8-4DBE-83CB-D3CD8E8E9A24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maria.Platform", "Maria.Platform\Maria.Platform.csproj", "{4952A773-E7D7-45F8-9777-D48BF70E0712}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maria.Deprecated", "Maria.Deprecated\Maria.Deprecated.csproj", "{1A790F8A-A2E8-4E62-A4FE-9FDCC0F71C1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maria.Platform", "Maria.Platform\Maria.Platform.csproj", "{4952A773-E7D7-45F8-9777-D48BF70E0712}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +27,6 @@ Global
 		{4952A773-E7D7-45F8-9777-D48BF70E0712}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4952A773-E7D7-45F8-9777-D48BF70E0712}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4952A773-E7D7-45F8-9777-D48BF70E0712}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1A790F8A-A2E8-4E62-A4FE-9FDCC0F71C1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1A790F8A-A2E8-4E62-A4FE-9FDCC0F71C1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1A790F8A-A2E8-4E62-A4FE-9FDCC0F71C1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1A790F8A-A2E8-4E62-A4FE-9FDCC0F71C1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
