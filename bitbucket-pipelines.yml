@@ -9,5 +9,6 @@ pipelines:
           - export PROJECT_NAME=Maria.sln
           #- export TEST_NAME=yourTestName
           - dotnet restore
-          - dotnet build $PROJECT_NAME
+          # since this is build on a linux server, we want to ignore the usual PostBuildEvent instructions
+          - dotnet msbuild $PROJECT_NAME -property:Configuration=Release;PostBuildEvent=;Platform=x64
           #- dotnet test $TEST_NAME
