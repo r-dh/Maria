@@ -10,5 +10,5 @@ pipelines:
           #- export TEST_NAME=yourTestName
           - dotnet restore
           # since this is build on a linux server, we want to ignore the usual PostBuildEvent instructions
-          - dotnet msbuild $PROJECT_NAME "/p:Configuration=Release;PostBuildEvent=;Platform=x64"
+          - dotnet msbuild $PROJECT_NAME '/p:Configuration=Release;PostBuildEvent=""'
           #- dotnet test $TEST_NAME
