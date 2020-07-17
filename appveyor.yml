@@ -12,25 +12,6 @@ build:
   project: Maria.sln
   verbosity: minimal
 before_package:
-
-- ps: >-
-
-    cd c:\project\maria\
-
-
-
-    .\BuildUnityPackages.ps1
-
+- ps: .\BuildUnityPackages.ps1
 artifacts:
-
 - path: '*.unitypackage'
-
-on_success:
-
-- ps: >-
-
-    mkdir .\lib\
-
-
-
-    cp %APPVEYOR_BUILD_FOLDER%\**.dll .\lib\
