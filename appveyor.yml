@@ -6,6 +6,8 @@ skip_commits:
   files:
     - '.gitignore'
     - '*.md'
+before_build:
+  - nuget restore
 build:
   project: Maria.sln
   verbosity: minimal
