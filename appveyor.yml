@@ -20,4 +20,3 @@ deploy:
   provider: GitHub
   auth_token:
     secure: iKdjMlSER5f4UWOvLmfM43Tf1xYs6hmF4yfvJllDC18xMr9F/nvHNFkIQUbqW5Ry
-  artifact: '*.unitypackage'
