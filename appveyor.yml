@@ -1,22 +1,42 @@
-version: '{branch}-1.0.{build}'
+version: '{branch}-{build}'
+
 skip_tags: true
+
 image: Visual Studio 2019
 configuration: Release
+
+environment:
+  nodejs_version: 12
+
 skip_commits:
   files:
     - '.gitignore'
     - '*.md'
+
 before_build:
   - nuget restore
 build:
   project: Maria.sln
   verbosity: minimal
+
 before_package:
 - ps: .\BuildUnityPackages.ps1
+
 artifacts:
 - path: '*.unitypackage'
+
 deploy:
   description: 'Release'
   provider: GitHub
   auth_token:
     secure: iKdjMlSER5f4UWOvLmfM43Tf1xYs6hmF4yfvJllDC18xMr9F/nvHNFkIQUbqW5Ry
+
+cache: '%APPDATA%\npm'
+
+install:
+- ps: >-
+    Install-Product node $env:nodejs_version
+    npm install -g semantic-release
+    
+deploy_script:
+- semantic-release
