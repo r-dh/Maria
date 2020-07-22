@@ -7,6 +7,8 @@ configuration: Release
 
 environment:
   nodejs_version: 12
+  GH_TOKEN:
+    secure: OCJrZypxmjb/p7vZIcwiGR4SaMiHZ269r2vcgPKdf5E+bv86X7aW+doKKR7HcTgh
 
 skip_commits:
   files:
@@ -42,6 +44,6 @@ install:
 
     npm install -g semantic-release
 
-    
+
 deploy_script:
 - semantic-release
