@@ -1,6 +1,6 @@
 # Maria
 
-Maria is an early-stage library used by the research team of [Digital Arts and Entertainment](https://www.digitalartsandentertainment.be/page/133/Research). 
+Maria is a CI proof of concept for a Unity C# Framework.
 
 ### Getting Started
 Simply download the latest .unitypackage from [here](https://github.com/r-dh/Maria/releases) and double click it to import it into Unity.
