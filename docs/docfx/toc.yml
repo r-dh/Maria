@@ -1,4 +1,4 @@
 - name: Home
   href: index.md
-- name: API
+- name: Documentation
   href: obj/

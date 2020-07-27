@@ -14,24 +14,35 @@
     ],
     "build": {
        "content": [
-          {
-            "files": [
-              "*.yml"
-          ],
-            "src": "obj",
-            "dest": "api"
-        },
-        {
-            "files": [
-              "index.md",
-              "toc.yml"
-          ]
-        }
-    ],
+            {
+                "files": [
+                    "*.yml"
+                ],
+                "src": "obj",
+                "dest": "api"
+            },
+            {
+                "files": [
+                 "index.md",
+                 "toc.yml"
+                ]
+            }
+        ],
+       "resource": [
+            {
+                "files": [
+                    "**.svg"
+                ]
+            }
+        ],
        "globalMetadata": {
           "_appTitle": "Sophia",
           "_enableSearch": true
       },
+      "template": [
+        "default",
+        "templates/material"
+    ],
       "markdownEngineName": "markdig",
       "dest": "_site",
       "xrefService": [
