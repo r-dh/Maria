@@ -1,0 +1,1670 @@
+{
+  "sitemap": {
+    "baseUrl": "https://r-dh.github.io/Maria/"
+  },
+  "homepages": [],
+  "source_base_path": "D:/a/Maria/Maria/docs/docfx",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "MId2/kH0tgGIqhQM8qtplw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "logo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "logo.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Algorithms.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Algorithms.html",
+          "hash": "Yq4wIs+1iROXK3tAQ0hlwQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.BaseMonoBehaviour.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.BaseMonoBehaviour.html",
+          "hash": "zeCv/K8aFwKFUJmsYUaC0A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.ColorList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.ColorList.html",
+          "hash": "eMWEfU3Megk/yjoxqefUvg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.CommentAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.CommentAttribute.html",
+          "hash": "7gpfbKPQ17v6vJaVAjxNJw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.CountDownTimer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.CountDownTimer.html",
+          "hash": "AEwmT56Y2+2OCuC+CDqrRQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Diagnostics.Logger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Diagnostics.Logger.html",
+          "hash": "yQiH8TLeiHl7ilzQhOBuWA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Diagnostics.LoggerCreationInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Diagnostics.LoggerCreationInfo.html",
+          "hash": "LV+JZ506Rwp0HTghNI4JFw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Diagnostics.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Diagnostics.html",
+          "hash": "5Zg4ytO4ySi0JpsZhqIXeA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.DummyAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.DummyAttribute.html",
+          "hash": "61cBls63G9PuOOOl49TLfA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Editor.BaseEditor-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Editor.BaseEditor-1.html",
+          "hash": "pvHpJ2iVuVrXNmwxO9f8fQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Editor.BaseEditorHelpers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Editor.BaseEditorHelpers.html",
+          "hash": "8TRORd/1pOxlHnJrAupRfA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Editor.BaseMonoBehaviourEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Editor.BaseMonoBehaviourEditor.html",
+          "hash": "YtrCRKnEgUTE+Z2dlKK7Ug=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Editor.CommentPropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Editor.CommentPropertyDrawer.html",
+          "hash": "ezbWSqkVZtPasNFni5D6SA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Editor.DummyPorpertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Editor.DummyPorpertyDrawer.html",
+          "hash": "IH45Nwem/CWqaU9Reg41lw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Editor.PropertyDrawers.HighlightPropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Editor.PropertyDrawers.HighlightPropertyDrawer.html",
+          "hash": "YxBAzPeqDyQq208/daKy/g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Editor.PropertyDrawers.InspectorFlagsPropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Editor.PropertyDrawers.InspectorFlagsPropertyDrawer.html",
+          "hash": "2q4cweYOEM19MKl76WMFxA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Editor.PropertyDrawers.InspectorListPropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Editor.PropertyDrawers.InspectorListPropertyDrawer.html",
+          "hash": "s7TP5Xo4Wmj8pNFBvyj/eg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Editor.PropertyDrawers.LabelFieldPropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Editor.PropertyDrawers.LabelFieldPropertyDrawer.html",
+          "hash": "GftMesxZprNZ88mOKVhRdA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Editor.PropertyDrawers.MinMaxFloatPropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Editor.PropertyDrawers.MinMaxFloatPropertyDrawer.html",
+          "hash": "0A74z+rig9sWlL9bW3BY4g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Editor.PropertyDrawers.NonNegativePropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Editor.PropertyDrawers.NonNegativePropertyDrawer.html",
+          "hash": "MpaMsuY21Dtj7VTgk55/9w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Editor.PropertyDrawers.OptionalPropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Editor.PropertyDrawers.OptionalPropertyDrawer.html",
+          "hash": "3rRpfOHSyZ/wPi2vQHu0dg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Editor.PropertyDrawers.ReadOnlyPropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Editor.PropertyDrawers.ReadOnlyPropertyDrawer.html",
+          "hash": "u49nCa0K0p2fQ0vld39aNA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Editor.PropertyDrawers.WarningIfNullPropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Editor.PropertyDrawers.WarningIfNullPropertyDrawer.html",
+          "hash": "VkUv2BexcxpOIRgm56YNYQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Editor.PropertyDrawers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Editor.PropertyDrawers.html",
+          "hash": "6L4MVNNGZrcN2r+ZsjYeww=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Editor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Editor.html",
+          "hash": "FoQUPU5yxEtgP5rdNRqEAw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Events.Event.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Events.Event.html",
+          "hash": "3RM+wP4InEo1j1V/iE9EbQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Events.EventDispatch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Events.EventDispatch.html",
+          "hash": "xjBnGBDC1KSW9GXFNs4jIA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Events.IEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Events.IEvent.html",
+          "hash": "HV4xbmZ2ERM/V2Zx9r+lmA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Events.IEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Events.IEventHandler.html",
+          "hash": "3yxp1VBZziGdpnsAJRwH5Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Events.IEventSender.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Events.IEventSender.html",
+          "hash": "bLdZlYaoJoKDhcZywFfcCw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Events.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Events.html",
+          "hash": "zBVsBXzdQFbe+K9vjrRfIQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Extensions.ArrayExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Extensions.ArrayExtensions.html",
+          "hash": "ekdIhVw3zqb7IAOwlBuftQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Extensions.CollectionExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Extensions.CollectionExtensions.html",
+          "hash": "5yKSSfPAW9k04ses7fErSw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Extensions.ColorExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Extensions.ColorExtensions.html",
+          "hash": "TwbypY43AFBpc1685zmlGA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Extensions.ListExtentions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Extensions.ListExtentions.html",
+          "hash": "Lj4UmlZAx2YGzCkYTedFkw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Extensions.MonoBehaviourExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Extensions.MonoBehaviourExtensions.html",
+          "hash": "v4ryWCNwmJbeqyy/p8Tbvw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Extensions.ObjectExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Extensions.ObjectExtensions.html",
+          "hash": "0UrYCYtNgdHk8hh/QhX8Dg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Extensions.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Extensions.StringExtensions.html",
+          "hash": "JJDdv/FRas+Qy+u+hg8ElA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Extensions.TransformExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Extensions.TransformExtensions.html",
+          "hash": "6As8n+frFfOx8RFMJkvotw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Extensions.VectorExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Extensions.VectorExtensions.html",
+          "hash": "NGHg9dEHbzjrehKOnrK/NA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Extensions.html",
+          "hash": "fyRwBxzjAs+V6wTtw2JDFw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Finished.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Finished.html",
+          "hash": "WnK5wml3V7knQAyweJgNxw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.FloatList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.FloatList.html",
+          "hash": "nzuehZarE20DiBn6tWcckg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.HighlightAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.HighlightAttribute.html",
+          "hash": "0gd+mji+6kvAC9FmEKZrVw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.IDesktopInputManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.IDesktopInputManager.html",
+          "hash": "jbyIWXQz8Y1m1F5ovVR6Wg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.IInputCommand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.IInputCommand.html",
+          "hash": "BVvgKMhfwKQqhx5XxOFTsQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.IInputManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.IInputManager.html",
+          "hash": "YilHIocHyZceGZ1ek56hgA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.IInventoryItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.IInventoryItem.html",
+          "hash": "W4dknzlG56ltWv6IBFa9fA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.IO.EventFilters.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.IO.EventFilters.html",
+          "hash": "ZyjXSHrcGFdQWqbIIdsIjQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.IO.FileExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.IO.FileExtension.html",
+          "hash": "glHsJuuDh1MtxoUPv5BoLw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.IO.FileExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.IO.FileExtensions.html",
+          "hash": "NAdwPmzUPH1x1pv2TgjsHA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.IO.FileSystemWatcher.ErrorEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.IO.FileSystemWatcher.ErrorEventHandler.html",
+          "hash": "25ISglKtDNtTW/ILR18sIA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.IO.FileSystemWatcher.FileSystemEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.IO.FileSystemWatcher.FileSystemEventHandler.html",
+          "hash": "nm8DK1e3IeXohnuRN6M7cg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.IO.FileSystemWatcher.RenamedEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.IO.FileSystemWatcher.RenamedEventHandler.html",
+          "hash": "227DBFVf6CguNvKiQbDSog=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.IO.FileSystemWatcher.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.IO.FileSystemWatcher.html",
+          "hash": "Ri1nWtCGZwZBg+PcGisvNQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.IO.FileWatcherCreationInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.IO.FileWatcherCreationInfo.html",
+          "hash": "NutuglMsOmhUeWVtsxGjgw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.IO.Helpers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.IO.Helpers.html",
+          "hash": "bpk26bWFS79jS/rDYxflSA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.IO.PostFix.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.IO.PostFix.html",
+          "hash": "Q5qeah7KUWmowzvajDTxtQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.IO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.IO.html",
+          "hash": "SaWrtUCrBteic2I//WsuVA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.IRandom.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.IRandom.html",
+          "hash": "QONrPDKaQPJTsgS7k/idyA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.ITimer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.ITimer.html",
+          "hash": "VUl687SAp+19bIKyxp/GYg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.InputAxisCommand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.InputAxisCommand.html",
+          "hash": "T4nHBA2J2NhK8D7QpzD+Ug=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.InputController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.InputController.html",
+          "hash": "uPoJtdPtrwl1eIPHvSqhyw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.InputKeyCommand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.InputKeyCommand.html",
+          "hash": "44FzlXAwr4LpJcSWTxwsuw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.InspectorButtonAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.InspectorButtonAttribute.html",
+          "hash": "tikdVj9xuM3fYk1NTyl4hg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.InspectorFlagsAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.InspectorFlagsAttribute.html",
+          "hash": "Kbkq5IYmoo4Qjy9dU/miVQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.InspectorList-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.InspectorList-1.html",
+          "hash": "YHiOV8Co1N28dDFO7ZweKQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.InspectorList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.InspectorList.html",
+          "hash": "Bgl5xJbui/HB6oXJVUy1Pg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.IntList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.IntList.html",
+          "hash": "TheLEup2/IPGNQbP1SnB4g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.InventoryController.Added.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.InventoryController.Added.html",
+          "hash": "pPV2E4y4/gW3nkO5XIACYg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.InventoryController.Removed.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.InventoryController.Removed.html",
+          "hash": "FlksBzuL0nCUmu8atrhAbg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.InventoryController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.InventoryController.html",
+          "hash": "JLq2XKPkA40K3X0VqssjIA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.KeyCode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.KeyCode.html",
+          "hash": "JAPHOchgqpGfclHyt9WTnQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.KeyState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.KeyState.html",
+          "hash": "adOoYbzCXDzk7atAI5b/AQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.LabelFieldAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.LabelFieldAttribute.html",
+          "hash": "C1Hl8mvlpJSB0dUBBo+FHg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.MariaRandom.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.MariaRandom.html",
+          "hash": "74XfdM882aIHGop01ExiwA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.MinMaxFloat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.MinMaxFloat.html",
+          "hash": "3BDtMdvi0FhIAH1P8dwMnA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.MinMaxInt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.MinMaxInt.html",
+          "hash": "F4soyZ8Amru4kGdlQdl2Eg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.MonoBehaviourList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.MonoBehaviourList.html",
+          "hash": "J8ULzVKSfsAazNCHnQmffg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.MonoBehaviourSingleton-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.MonoBehaviourSingleton-1.html",
+          "hash": "aj+ynd3lYTScNddqeakymg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.MultiFunctionalCommand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.MultiFunctionalCommand.html",
+          "hash": "YlM6ed0htAa3jOXse3dfcg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.NonNegativeAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.NonNegativeAttribute.html",
+          "hash": "84uIEbedz7pnfJ9cV3oqjg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.ObjectList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.ObjectList.html",
+          "hash": "fvBCUoR6RGnOq0ZNDP2Zdg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Optional-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Optional-1.html",
+          "hash": "d7cnso6YPBPpR+U/Sr+L3A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Optional.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Optional.html",
+          "hash": "UGY+msRkjX6KaJOwxMmB2w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.OptionalFloat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.OptionalFloat.html",
+          "hash": "hEPBdijbQTDk3kV2FTouAw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.OptionalGameObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.OptionalGameObject.html",
+          "hash": "Mea2V4FVcqGmMCf/dFG3jw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.OptionalInt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.OptionalInt.html",
+          "hash": "bAesUznp/TpBT2IUnjvJ3w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.OptionalMonoBehaviour.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.OptionalMonoBehaviour.html",
+          "hash": "1vICy8XMf8gzAPxAMRaWbw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.OptionalString.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.OptionalString.html",
+          "hash": "SzQbFGO114lIvsLIJcL3Dg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.OptionalVector2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.OptionalVector2.html",
+          "hash": "+BapMBScn2FleiKQzCqJ+Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.OptionalVector3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.OptionalVector3.html",
+          "hash": "BujViYb8mWbvpCdBqrKJkg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Patterns.EventSubject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Patterns.EventSubject.html",
+          "hash": "zpIuxbjpPhnGcWfxrIhucw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Patterns.FSMEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Patterns.FSMEvent.html",
+          "hash": "oPFD5xhXn0UKIMxKs8b+TQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Patterns.FSMState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Patterns.FSMState.html",
+          "hash": "ev4zkfktnegCRmHSMt6sSQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Patterns.FSMTransition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Patterns.FSMTransition.html",
+          "hash": "v9iUEnbR5ttveQoMzVAMEQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Patterns.FiniteStateMachine.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Patterns.FiniteStateMachine.html",
+          "hash": "jd2rrfQdoCLIOrg5XwphAg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Patterns.Guard.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Patterns.Guard.html",
+          "hash": "4LyyRIYct/7Gn+wh4WxJOw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Patterns.ICommand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Patterns.ICommand.html",
+          "hash": "A5HkGtcbLnnBu2BbWxAAAg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Patterns.ICommandReceiver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Patterns.ICommandReceiver.html",
+          "hash": "F+x5w6P7AUEdTQBJLWSDtg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Patterns.IEventObserver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Patterns.IEventObserver.html",
+          "hash": "z+VxCyu8lcsuBCCV+zv0oA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Patterns.IObserver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Patterns.IObserver.html",
+          "hash": "vNuhDtPi3+50dQ1nVdjG9w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Patterns.IStateMachine.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Patterns.IStateMachine.html",
+          "hash": "pHFQCjH6T7pQRjKq9mQNfA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Patterns.Singleton-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Patterns.Singleton-1.html",
+          "hash": "hxmn9nC88XPOK+sEOw6YZw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Patterns.Subject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Patterns.Subject.html",
+          "hash": "QTkIxPihBUFhq/uokVCa8w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Patterns.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Patterns.html",
+          "hash": "y3UzYwxYBeSeVTPz0XeRlA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.PhysxMonoBehaviour.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.PhysxMonoBehaviour.html",
+          "hash": "OOpOW2JHClDFcYWf5t9lNg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.ReadOnlyAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.ReadOnlyAttribute.html",
+          "hash": "wgaB4ef/NlAN8jHHGHW70Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.ScreenshotTaker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.ScreenshotTaker.html",
+          "hash": "tRtJ4oTlwN+DqNAo3Bj0Pg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Started.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Started.html",
+          "hash": "X+mND+HaTw8b78Hg8UWOPA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Stopped.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Stopped.html",
+          "hash": "9eKTNH8e5408yIt8JgwzYA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.StringList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.StringList.html",
+          "hash": "8Mw1KUD+zx4ctj8NiLI3pw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Threading.CopyData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Threading.CopyData.html",
+          "hash": "iSWeBmCNnddcqeqFw3zrew=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Threading.CopyTask.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Threading.CopyTask.html",
+          "hash": "k40yT0i59jyNDYBmBTieWA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Threading.ITask.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Threading.ITask.html",
+          "hash": "K4w5fH7x6FAcpUWW3Eobyw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Threading.Task.Finished.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Threading.Task.Finished.html",
+          "hash": "n3XgNd3/IqiVkEtfvH48ww=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Threading.Task.Started.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Threading.Task.Started.html",
+          "hash": "ZbW+/j0Nk/osDFtvs/y5+g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Threading.Task.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Threading.Task.html",
+          "hash": "lFCX+OMRKJbgFfn0wja65Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Threading.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Threading.html",
+          "hash": "LzQ+QwbcOnPMX/j+hPPT6Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.TimerCreationInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.TimerCreationInfo.html",
+          "hash": "RWuGu/Vcw+tfo/b23PH+Ew=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.TimerEventInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.TimerEventInfo.html",
+          "hash": "LX186vri3N/W6HGb6Qq0SQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.TimerFinishedBehaviour.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.TimerFinishedBehaviour.html",
+          "hash": "+ePfWXzB0OxWfbiUKy0ofQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.TimerManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.TimerManager.html",
+          "hash": "JF8UdjnRedeD1ctuUdbJMg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Updated.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Updated.html",
+          "hash": "nfSbQAXUcWZf3SY0JrEUJw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Vector2List.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Vector2List.html",
+          "hash": "gvNFBswEF51MoLHY5Wh7lA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Vector3List.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Vector3List.html",
+          "hash": "aEKQ3Za+SNjTDyrqp2divg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Vector4List.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Vector4List.html",
+          "hash": "pmPGWqJYYJc9Wdb59uE2xA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.WarningIfNullAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.WarningIfNullAttribute.html",
+          "hash": "TvbHnLeR8zybiwIo+DWwLQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.html",
+          "hash": "vyVkEsPfYxkHvsE48PrxAQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "obj/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "9QluT3wjBWtp+jW8SfDVYQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "fZo29wniQx+aEsl1k8bSOA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 1,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 129,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
