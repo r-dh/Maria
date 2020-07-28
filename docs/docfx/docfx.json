@@ -13,7 +13,7 @@
         }
     ],
     "build": {
-       "content": [
+        "content": [
             {
                 "files": [
                     "*.yml"
@@ -28,25 +28,28 @@
                 ]
             }
         ],
-       "resource": [
+        "resource": [
             {
                 "files": [
                     "**.svg"
                 ]
             }
         ],
-       "globalMetadata": {
-          "_appTitle": "Sophia",
-          "_enableSearch": true
-      },
-      "template": [
-        "default",
-        "templates/material"
-    ],
-      "markdownEngineName": "markdig",
-      "dest": "_site",
-      "xrefService": [
-          "https://xref.docs.microsoft.com/query?uid={uid}"
-      ]
-  }
+        "sitemap": {
+            "baseUrl": "https://r-dh.github.io/Maria",
+        },
+        "globalMetadata": {
+            "_appTitle": "Maria",
+            "_appFooter": "Library provided by <a href=\"https://www.digitalartsandentertainment.be/page/133/Research\">DAE Research</a>",
+            "_enableSearch": true
+        },
+        "template": [
+            "default",
+            "templates/material"
+        ],
+        "markdownEngineName": "markdig",
+        "dest": "_site",
+        "xref": [ "https://normanderwan.github.io/DocFxForUnity/Unity/xrefmap.yml" ],
+        "xrefService": [ "https://xref.docs.microsoft.com/query?uid={uid}"]
+    }
 }
