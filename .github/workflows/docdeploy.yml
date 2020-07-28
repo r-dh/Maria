@@ -18,7 +18,7 @@ jobs:
 
       - name: Build
         run: |
-          cp /y README.md docs/docfx/index.md
+          cp README.md docs/docfx/index.md
           docfx docs/docfx/docfx.json
 
       # Upload the generated documentation
