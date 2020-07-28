@@ -262,3 +262,5 @@ __pycache__/
 
 # Docs
 docs/LastBuild.log
+docs/docfx/_site/
+docs/docfx/obj/

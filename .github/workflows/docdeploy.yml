@@ -1,0 +1,47 @@
+name: Build and deploy documentation
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  # Build the documentation
+  build:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v1
+
+      - name: Install DocFX
+        run: choco install -y docfx
+
+      - name: Build
+        run: |
+          cp /y README.md docs/docfx/index.md
+          docfx docs/docfx/docfx.json
+
+      # Upload the generated documentation
+      - name: Upload site artifact
+        uses: actions/upload-artifact@v1
+        with:
+          name: _site
+
+  # Deploy the generated documentation to the gh-pages branch
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest # Required by 'JamesIves/github-pages-deploy-action'
+    steps:
+      # Download the generated documentation
+      - name: Download site artifact
+        uses: actions/download-artifact@v1
+        with:
+          name: _site
+
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        env:
+          ACCESS_TOKEN: ${{ secrets.PersonalAccessToken }}
+          BRANCH: gh-pages
+          FOLDER: _site
+          CLEAN: true
