@@ -26,7 +26,7 @@ jobs:
         uses: actions/upload-artifact@v1
         with:
           name: site
-          path: _site
+          path: docs/docfx/_site
 
   # Deploy the generated documentation to the gh-pages branch
   deploy:
