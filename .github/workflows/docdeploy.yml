@@ -25,7 +25,8 @@ jobs:
       - name: Upload site artifact
         uses: actions/upload-artifact@v1
         with:
-          name: _site
+          name: site
+          path: _site
 
   # Deploy the generated documentation to the gh-pages branch
   deploy:
@@ -36,12 +37,12 @@ jobs:
       - name: Download site artifact
         uses: actions/download-artifact@v1
         with:
-          name: _site
+          name: site
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
         env:
           ACCESS_TOKEN: ${{ secrets.PersonalAccessToken }}
           BRANCH: gh-pages
-          FOLDER: _site
+          FOLDER: site
           CLEAN: true
