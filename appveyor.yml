@@ -18,20 +18,28 @@ skip_commits:
 
 before_build:
   - nuget restore
+  - nuget install OpenCover -OutputDirectory packages -Version 4.6.519
+  
 build:
   project: Maria.sln
   verbosity: minimal
 
-test:
-  assemblies:
-    - '**\Maria.Tests.dll' 
+test_script:
+  - .\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe -returntargetcode -register:user -target:"nunit3-console.exe" -targetargs:"Maria.Tests\bin\Release\netcoreapp3.1\Maria.Tests.dll" -output:"coverage.xml" -filter:"+[Maria*]* -[Maria.Tests*]* "
+
+
+after_test:
+  - ps: |
+      $env:PATH = 'C:\msys64\usr\bin;' + $env:PATH
+      Invoke-WebRequest -Uri 'https://codecov.io/bash' -OutFile codecov.sh
+      bash codecov.sh -f "coverage.xml" 
+
 
 before_package:
 - ps: .\BuildUnityPackages.ps1
 
 artifacts:
 - path: '*.unitypackage'
-- path: '*Maria*\bin\Release\*\*Maria*'
 
 cache: '%APPDATA%\npm'
 
