@@ -18,9 +18,16 @@ skip_commits:
 
 before_build:
   - nuget restore
+  - nuget install OpenCover -OutputDirectory packages -Version 4.6.519
+  - choco install codecov
+
 build:
   project: Maria.sln
   verbosity: minimal
+
+test_script:
+  - .\packages\OpenCover.4.6.519\tools\OpenCover.Console.exe -returntargetcode -register:user -target:"dotnet.exe" -targetargs:"test Maria.Tests\bin\Release\netcoreapp3.1\Maria.Tests.dll" -output:"coverage.xml" -filter:"+[Maria*]* -[Maria.Tests*]* "
+  - codecov -f "coverage.xml"
 
 before_package:
 - ps: .\BuildUnityPackages.ps1
