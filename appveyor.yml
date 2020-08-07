@@ -22,11 +22,16 @@ build:
   project: Maria.sln
   verbosity: minimal
 
+test:
+  assemblies:
+    - '**\Maria.Tests.dll' 
+
 before_package:
 - ps: .\BuildUnityPackages.ps1
 
 artifacts:
 - path: '*.unitypackage'
+- path: '*Maria*\bin\Release\*\*Maria*'
 
 cache: '%APPDATA%\npm'
 
