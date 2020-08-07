@@ -21,7 +21,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "MId2/kH0tgGIqhQM8qtplw=="
+          "hash": "ImUYqgY0ePScz6BmU9CenA=="
         }
       },
       "is_incremental": false,
@@ -44,7 +44,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Algorithms.html",
-          "hash": "Yq4wIs+1iROXK3tAQ0hlwQ=="
+          "hash": "NZQr8tdMOsYLb+6tmPqrtQ=="
         }
       },
       "is_incremental": false,
@@ -56,7 +56,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.BaseMonoBehaviour.html",
-          "hash": "zeCv/K8aFwKFUJmsYUaC0A=="
+          "hash": "uPAbtvJwHFbPmRrvUKbLsA=="
         }
       },
       "is_incremental": false,
@@ -68,7 +68,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.ColorList.html",
-          "hash": "eMWEfU3Megk/yjoxqefUvg=="
+          "hash": "hlwXySHLbOCIfheCYG4IBA=="
         }
       },
       "is_incremental": false,
@@ -80,7 +80,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.CommentAttribute.html",
-          "hash": "7gpfbKPQ17v6vJaVAjxNJw=="
+          "hash": "uwAn4EdV9DNdXnmXCyAdtQ=="
         }
       },
       "is_incremental": false,
@@ -92,7 +92,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.CountDownTimer.html",
-          "hash": "AEwmT56Y2+2OCuC+CDqrRQ=="
+          "hash": "tgK9+73WUyY6IDRAQmwFGQ=="
         }
       },
       "is_incremental": false,
@@ -104,7 +104,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Diagnostics.Logger.html",
-          "hash": "yQiH8TLeiHl7ilzQhOBuWA=="
+          "hash": "+KgNSGnqXIgQ2nYiinb4aQ=="
         }
       },
       "is_incremental": false,
@@ -116,7 +116,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Diagnostics.LoggerCreationInfo.html",
-          "hash": "LV+JZ506Rwp0HTghNI4JFw=="
+          "hash": "8J6Q+3bBqtjmYrR+qp/bHQ=="
         }
       },
       "is_incremental": false,
@@ -140,7 +140,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.DummyAttribute.html",
-          "hash": "61cBls63G9PuOOOl49TLfA=="
+          "hash": "1x7v2gL1epZEUGVbDPjs0A=="
         }
       },
       "is_incremental": false,
@@ -152,7 +152,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Editor.BaseEditor-1.html",
-          "hash": "pvHpJ2iVuVrXNmwxO9f8fQ=="
+          "hash": "h/tdtQgBxY/4Le/r8fC8qw=="
         }
       },
       "is_incremental": false,
@@ -164,7 +164,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Editor.BaseEditorHelpers.html",
-          "hash": "8TRORd/1pOxlHnJrAupRfA=="
+          "hash": "0xtdnSTLp+f0tz3J7+6SNQ=="
         }
       },
       "is_incremental": false,
@@ -176,7 +176,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Editor.BaseMonoBehaviourEditor.html",
-          "hash": "YtrCRKnEgUTE+Z2dlKK7Ug=="
+          "hash": "MIHEKXYvwBPa/qKQgjhDyw=="
         }
       },
       "is_incremental": false,
@@ -188,7 +188,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Editor.CommentPropertyDrawer.html",
-          "hash": "ezbWSqkVZtPasNFni5D6SA=="
+          "hash": "9wk2Sm/xhH2EhgDiLMe7hA=="
         }
       },
       "is_incremental": false,
@@ -200,7 +200,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Editor.DummyPorpertyDrawer.html",
-          "hash": "IH45Nwem/CWqaU9Reg41lw=="
+          "hash": "gfGMZzG6viVOjQMjJbZhhQ=="
         }
       },
       "is_incremental": false,
@@ -212,7 +212,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Editor.PropertyDrawers.HighlightPropertyDrawer.html",
-          "hash": "YxBAzPeqDyQq208/daKy/g=="
+          "hash": "NItClyHu0109M1ZnEhA0bw=="
         }
       },
       "is_incremental": false,
@@ -224,7 +224,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Editor.PropertyDrawers.InspectorFlagsPropertyDrawer.html",
-          "hash": "2q4cweYOEM19MKl76WMFxA=="
+          "hash": "KUTTSdNduWS0bCQjExWaCA=="
         }
       },
       "is_incremental": false,
@@ -236,7 +236,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Editor.PropertyDrawers.InspectorListPropertyDrawer.html",
-          "hash": "s7TP5Xo4Wmj8pNFBvyj/eg=="
+          "hash": "lzqqaGN/c5aX8k6uRo3rbQ=="
         }
       },
       "is_incremental": false,
@@ -248,7 +248,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Editor.PropertyDrawers.LabelFieldPropertyDrawer.html",
-          "hash": "GftMesxZprNZ88mOKVhRdA=="
+          "hash": "t/P4J4v7S8vx5NU7ml96VA=="
         }
       },
       "is_incremental": false,
@@ -260,7 +260,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Editor.PropertyDrawers.MinMaxFloatPropertyDrawer.html",
-          "hash": "0A74z+rig9sWlL9bW3BY4g=="
+          "hash": "zyU+8LV8ULRWZMeHHX+RrA=="
         }
       },
       "is_incremental": false,
@@ -272,7 +272,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Editor.PropertyDrawers.NonNegativePropertyDrawer.html",
-          "hash": "MpaMsuY21Dtj7VTgk55/9w=="
+          "hash": "G/E1I30/VAFmpf+pcY89Ig=="
         }
       },
       "is_incremental": false,
@@ -284,7 +284,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Editor.PropertyDrawers.OptionalPropertyDrawer.html",
-          "hash": "3rRpfOHSyZ/wPi2vQHu0dg=="
+          "hash": "PlZGOmZYBsbrsemg5qgIJg=="
         }
       },
       "is_incremental": false,
@@ -296,7 +296,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Editor.PropertyDrawers.ReadOnlyPropertyDrawer.html",
-          "hash": "u49nCa0K0p2fQ0vld39aNA=="
+          "hash": "K0u8LrFZJHzHHHIlTVuztA=="
         }
       },
       "is_incremental": false,
@@ -308,7 +308,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Editor.PropertyDrawers.WarningIfNullPropertyDrawer.html",
-          "hash": "VkUv2BexcxpOIRgm56YNYQ=="
+          "hash": "sRGUyNB0j9bT2T8ahmJM+A=="
         }
       },
       "is_incremental": false,
@@ -344,7 +344,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Events.Event.html",
-          "hash": "3RM+wP4InEo1j1V/iE9EbQ=="
+          "hash": "iEvXGkbA79nwG8vjYWsq0w=="
         }
       },
       "is_incremental": false,
@@ -356,7 +356,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Events.EventDispatch.html",
-          "hash": "xjBnGBDC1KSW9GXFNs4jIA=="
+          "hash": "4MO4Ak3N3bLzr9n9QoTtcg=="
         }
       },
       "is_incremental": false,
@@ -368,7 +368,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Events.IEvent.html",
-          "hash": "HV4xbmZ2ERM/V2Zx9r+lmA=="
+          "hash": "g/kJVW3hv3V+J4zMydRAaA=="
         }
       },
       "is_incremental": false,
@@ -380,7 +380,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Events.IEventHandler.html",
-          "hash": "3yxp1VBZziGdpnsAJRwH5Q=="
+          "hash": "PoDbUlMgJp9foRN2wbq++g=="
         }
       },
       "is_incremental": false,
@@ -392,7 +392,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Events.IEventSender.html",
-          "hash": "bLdZlYaoJoKDhcZywFfcCw=="
+          "hash": "0QGrZM73YPIWdKpNsH5V2A=="
         }
       },
       "is_incremental": false,
@@ -416,7 +416,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Extensions.ArrayExtensions.html",
-          "hash": "ekdIhVw3zqb7IAOwlBuftQ=="
+          "hash": "N2fo5q6DY/lPyh0gmYK0pQ=="
         }
       },
       "is_incremental": false,
@@ -428,7 +428,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Extensions.CollectionExtensions.html",
-          "hash": "5yKSSfPAW9k04ses7fErSw=="
+          "hash": "t1i6+4JYtMGSZYik33ZcyA=="
         }
       },
       "is_incremental": false,
@@ -440,7 +440,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Extensions.ColorExtensions.html",
-          "hash": "TwbypY43AFBpc1685zmlGA=="
+          "hash": "axU+kh3tYTaD8msVF9Yt+Q=="
         }
       },
       "is_incremental": false,
@@ -452,7 +452,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Extensions.ListExtentions.html",
-          "hash": "Lj4UmlZAx2YGzCkYTedFkw=="
+          "hash": "XNKHcMc4w7X7Bw5uUVQqNg=="
         }
       },
       "is_incremental": false,
@@ -464,7 +464,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Extensions.MonoBehaviourExtensions.html",
-          "hash": "v4ryWCNwmJbeqyy/p8Tbvw=="
+          "hash": "XkVrVPFv3QWjS/NGvDL9AQ=="
         }
       },
       "is_incremental": false,
@@ -476,7 +476,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Extensions.ObjectExtensions.html",
-          "hash": "0UrYCYtNgdHk8hh/QhX8Dg=="
+          "hash": "HSSKFmnIsM879lTa/0Bm8Q=="
         }
       },
       "is_incremental": false,
@@ -488,7 +488,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Extensions.StringExtensions.html",
-          "hash": "JJDdv/FRas+Qy+u+hg8ElA=="
+          "hash": "JL0danBBseoHO5qpaYg9Cw=="
         }
       },
       "is_incremental": false,
@@ -500,7 +500,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Extensions.TransformExtensions.html",
-          "hash": "6As8n+frFfOx8RFMJkvotw=="
+          "hash": "6BDUR55f60NAPNMNtk51gQ=="
         }
       },
       "is_incremental": false,
@@ -512,7 +512,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Extensions.VectorExtensions.html",
-          "hash": "NGHg9dEHbzjrehKOnrK/NA=="
+          "hash": "V4mgWaztyAdrW6s1Tvu7NQ=="
         }
       },
       "is_incremental": false,
@@ -536,7 +536,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Finished.html",
-          "hash": "WnK5wml3V7knQAyweJgNxw=="
+          "hash": "f8xWZ2NBCss8Ezouxitcaw=="
         }
       },
       "is_incremental": false,
@@ -548,7 +548,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.FloatList.html",
-          "hash": "nzuehZarE20DiBn6tWcckg=="
+          "hash": "DM1YPv502XEVOFhrqNvyrw=="
         }
       },
       "is_incremental": false,
@@ -560,7 +560,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.HighlightAttribute.html",
-          "hash": "0gd+mji+6kvAC9FmEKZrVw=="
+          "hash": "n5ConljOjBpcgF32oh0qpg=="
         }
       },
       "is_incremental": false,
@@ -572,7 +572,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.IDesktopInputManager.html",
-          "hash": "jbyIWXQz8Y1m1F5ovVR6Wg=="
+          "hash": "mWjK7+f6hVLeC+HxvM1OXw=="
         }
       },
       "is_incremental": false,
@@ -584,7 +584,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.IInputCommand.html",
-          "hash": "BVvgKMhfwKQqhx5XxOFTsQ=="
+          "hash": "LHPdxmb9xuTo3HzR337W6w=="
         }
       },
       "is_incremental": false,
@@ -596,7 +596,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.IInputManager.html",
-          "hash": "YilHIocHyZceGZ1ek56hgA=="
+          "hash": "tKKQclsbUv8wNtxmL5S62w=="
         }
       },
       "is_incremental": false,
@@ -608,7 +608,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.IInventoryItem.html",
-          "hash": "W4dknzlG56ltWv6IBFa9fA=="
+          "hash": "v7enelamy6McfQJxKfBwyA=="
         }
       },
       "is_incremental": false,
@@ -620,7 +620,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.IO.EventFilters.html",
-          "hash": "ZyjXSHrcGFdQWqbIIdsIjQ=="
+          "hash": "2/iKk9kIHpp5z/N2fDKr9w=="
         }
       },
       "is_incremental": false,
@@ -632,7 +632,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.IO.FileExtension.html",
-          "hash": "glHsJuuDh1MtxoUPv5BoLw=="
+          "hash": "WDj1/7VPquqfjJdYw/x0iA=="
         }
       },
       "is_incremental": false,
@@ -644,7 +644,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.IO.FileExtensions.html",
-          "hash": "NAdwPmzUPH1x1pv2TgjsHA=="
+          "hash": "n87sdkcPkOAk2zyHH/n1ww=="
         }
       },
       "is_incremental": false,
@@ -656,7 +656,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.IO.FileSystemWatcher.ErrorEventHandler.html",
-          "hash": "25ISglKtDNtTW/ILR18sIA=="
+          "hash": "HlzrLqrOjvvjvQJKZEuweA=="
         }
       },
       "is_incremental": false,
@@ -668,7 +668,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.IO.FileSystemWatcher.FileSystemEventHandler.html",
-          "hash": "nm8DK1e3IeXohnuRN6M7cg=="
+          "hash": "BfId8AEwc8ojj4Sjojp3Tw=="
         }
       },
       "is_incremental": false,
@@ -680,7 +680,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.IO.FileSystemWatcher.RenamedEventHandler.html",
-          "hash": "227DBFVf6CguNvKiQbDSog=="
+          "hash": "WO+4ohmlQlLN16eswnFaKQ=="
         }
       },
       "is_incremental": false,
@@ -692,7 +692,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.IO.FileSystemWatcher.html",
-          "hash": "Ri1nWtCGZwZBg+PcGisvNQ=="
+          "hash": "IkA1RI9loCvEq49wFLAVtw=="
         }
       },
       "is_incremental": false,
@@ -704,7 +704,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.IO.FileWatcherCreationInfo.html",
-          "hash": "NutuglMsOmhUeWVtsxGjgw=="
+          "hash": "rIw32oNInaZRGo3bxwfTDg=="
         }
       },
       "is_incremental": false,
@@ -716,7 +716,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.IO.Helpers.html",
-          "hash": "bpk26bWFS79jS/rDYxflSA=="
+          "hash": "YepVhHPXYpNR4n90v4Ni4A=="
         }
       },
       "is_incremental": false,
@@ -728,7 +728,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.IO.PostFix.html",
-          "hash": "Q5qeah7KUWmowzvajDTxtQ=="
+          "hash": "6HxS3QjGjMqee7UeRg484w=="
         }
       },
       "is_incremental": false,
@@ -752,7 +752,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.IRandom.html",
-          "hash": "QONrPDKaQPJTsgS7k/idyA=="
+          "hash": "HPgB9OvxjLCIw9dhWzyUIA=="
         }
       },
       "is_incremental": false,
@@ -764,7 +764,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.ITimer.html",
-          "hash": "VUl687SAp+19bIKyxp/GYg=="
+          "hash": "MU0V5I6qGFvSoPJqg6keHg=="
         }
       },
       "is_incremental": false,
@@ -776,7 +776,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.InputAxisCommand.html",
-          "hash": "T4nHBA2J2NhK8D7QpzD+Ug=="
+          "hash": "ed2XJuWPj2RBMPTMmd5DxA=="
         }
       },
       "is_incremental": false,
@@ -788,7 +788,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.InputController.html",
-          "hash": "uPoJtdPtrwl1eIPHvSqhyw=="
+          "hash": "Lcl8I6TTumHzcGe/QezFVA=="
         }
       },
       "is_incremental": false,
@@ -800,7 +800,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.InputKeyCommand.html",
-          "hash": "44FzlXAwr4LpJcSWTxwsuw=="
+          "hash": "BepIMNWYdoN2N8/aXUkSOQ=="
         }
       },
       "is_incremental": false,
@@ -812,7 +812,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.InspectorButtonAttribute.html",
-          "hash": "tikdVj9xuM3fYk1NTyl4hg=="
+          "hash": "TY++EDjlvM2wLFKemiJMgQ=="
         }
       },
       "is_incremental": false,
@@ -824,7 +824,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.InspectorFlagsAttribute.html",
-          "hash": "Kbkq5IYmoo4Qjy9dU/miVQ=="
+          "hash": "v6Kmi+fv9wMr8duzNM0ENQ=="
         }
       },
       "is_incremental": false,
@@ -836,7 +836,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.InspectorList-1.html",
-          "hash": "YHiOV8Co1N28dDFO7ZweKQ=="
+          "hash": "a2Eq7edJihasLsEsazy/mg=="
         }
       },
       "is_incremental": false,
@@ -848,7 +848,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.InspectorList.html",
-          "hash": "Bgl5xJbui/HB6oXJVUy1Pg=="
+          "hash": "woZ0B9aEUrqr0kV/1pqTBQ=="
         }
       },
       "is_incremental": false,
@@ -860,7 +860,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.IntList.html",
-          "hash": "TheLEup2/IPGNQbP1SnB4g=="
+          "hash": "ghXzXbhdxjjO34uxJLkVAg=="
         }
       },
       "is_incremental": false,
@@ -872,7 +872,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.InventoryController.Added.html",
-          "hash": "pPV2E4y4/gW3nkO5XIACYg=="
+          "hash": "e+ZBZTH/DUSieD4i/7H7IQ=="
         }
       },
       "is_incremental": false,
@@ -884,7 +884,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.InventoryController.Removed.html",
-          "hash": "FlksBzuL0nCUmu8atrhAbg=="
+          "hash": "mMr3kFcc+6Lexwv9kS6NnA=="
         }
       },
       "is_incremental": false,
@@ -896,7 +896,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.InventoryController.html",
-          "hash": "JLq2XKPkA40K3X0VqssjIA=="
+          "hash": "XpdMjLBOFXnHZKrDE5685A=="
         }
       },
       "is_incremental": false,
@@ -908,7 +908,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.KeyCode.html",
-          "hash": "JAPHOchgqpGfclHyt9WTnQ=="
+          "hash": "hsvtECl7LkU/5D3rSUTOBA=="
         }
       },
       "is_incremental": false,
@@ -920,7 +920,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.KeyState.html",
-          "hash": "adOoYbzCXDzk7atAI5b/AQ=="
+          "hash": "1mcCSfRnWjKkX0lKhaOZ8g=="
         }
       },
       "is_incremental": false,
@@ -932,7 +932,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.LabelFieldAttribute.html",
-          "hash": "C1Hl8mvlpJSB0dUBBo+FHg=="
+          "hash": "oqZ/WLCHOsNnCswI8hWUnw=="
         }
       },
       "is_incremental": false,
@@ -944,7 +944,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.MariaRandom.html",
-          "hash": "74XfdM882aIHGop01ExiwA=="
+          "hash": "clf25LwNJaNxWDkiWXC5Ug=="
         }
       },
       "is_incremental": false,
@@ -956,7 +956,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.MinMaxFloat.html",
-          "hash": "3BDtMdvi0FhIAH1P8dwMnA=="
+          "hash": "bq97xowjpW8trYhj5siGug=="
         }
       },
       "is_incremental": false,
@@ -968,7 +968,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.MinMaxInt.html",
-          "hash": "F4soyZ8Amru4kGdlQdl2Eg=="
+          "hash": "vrwKJN46xBauSeN3xu7+OQ=="
         }
       },
       "is_incremental": false,
@@ -980,7 +980,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.MonoBehaviourList.html",
-          "hash": "J8ULzVKSfsAazNCHnQmffg=="
+          "hash": "PNbbuXWre9uOr8UnA/OGHA=="
         }
       },
       "is_incremental": false,
@@ -992,7 +992,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.MonoBehaviourSingleton-1.html",
-          "hash": "aj+ynd3lYTScNddqeakymg=="
+          "hash": "eZniqNsbdjWr2DO1/txuRw=="
         }
       },
       "is_incremental": false,
@@ -1004,7 +1004,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.MultiFunctionalCommand.html",
-          "hash": "YlM6ed0htAa3jOXse3dfcg=="
+          "hash": "P+f6bD9SO1sK5cVR2QBOqg=="
         }
       },
       "is_incremental": false,
@@ -1016,7 +1016,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.NonNegativeAttribute.html",
-          "hash": "84uIEbedz7pnfJ9cV3oqjg=="
+          "hash": "H1SD05xbxMJkyszhV0Y63Q=="
         }
       },
       "is_incremental": false,
@@ -1028,7 +1028,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.ObjectList.html",
-          "hash": "fvBCUoR6RGnOq0ZNDP2Zdg=="
+          "hash": "W9F1WJiu+2ASSaDXq+OIbg=="
         }
       },
       "is_incremental": false,
@@ -1040,7 +1040,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Optional-1.html",
-          "hash": "d7cnso6YPBPpR+U/Sr+L3A=="
+          "hash": "B5j+ECU+m/vy45kAArcJTQ=="
         }
       },
       "is_incremental": false,
@@ -1052,7 +1052,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Optional.html",
-          "hash": "UGY+msRkjX6KaJOwxMmB2w=="
+          "hash": "4zPAH+ek7eAx8s4VWsD2Lw=="
         }
       },
       "is_incremental": false,
@@ -1064,7 +1064,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.OptionalFloat.html",
-          "hash": "hEPBdijbQTDk3kV2FTouAw=="
+          "hash": "9JxRLwkuR/2tKxrotM1foA=="
         }
       },
       "is_incremental": false,
@@ -1076,7 +1076,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.OptionalGameObject.html",
-          "hash": "Mea2V4FVcqGmMCf/dFG3jw=="
+          "hash": "Gn0W8fZUSBE0VWEfnOBuGg=="
         }
       },
       "is_incremental": false,
@@ -1088,7 +1088,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.OptionalInt.html",
-          "hash": "bAesUznp/TpBT2IUnjvJ3w=="
+          "hash": "HwilQ4Gam0aLbzWBDQpg9Q=="
         }
       },
       "is_incremental": false,
@@ -1100,7 +1100,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.OptionalMonoBehaviour.html",
-          "hash": "1vICy8XMf8gzAPxAMRaWbw=="
+          "hash": "a0dOClbNIMf+b6ljSS+zPA=="
         }
       },
       "is_incremental": false,
@@ -1112,7 +1112,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.OptionalString.html",
-          "hash": "SzQbFGO114lIvsLIJcL3Dg=="
+          "hash": "jThUXddv8vBq1H1Bxvo31A=="
         }
       },
       "is_incremental": false,
@@ -1124,7 +1124,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.OptionalVector2.html",
-          "hash": "+BapMBScn2FleiKQzCqJ+Q=="
+          "hash": "F31iHq5jcDmv2x7lYUMcdg=="
         }
       },
       "is_incremental": false,
@@ -1136,7 +1136,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.OptionalVector3.html",
-          "hash": "BujViYb8mWbvpCdBqrKJkg=="
+          "hash": "Lj1avR7YtjR/zvHhFpez4g=="
         }
       },
       "is_incremental": false,
@@ -1148,7 +1148,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Patterns.EventSubject.html",
-          "hash": "zpIuxbjpPhnGcWfxrIhucw=="
+          "hash": "JSsKeXOaVkv9A/bfCm+oog=="
         }
       },
       "is_incremental": false,
@@ -1160,7 +1160,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Patterns.FSMEvent.html",
-          "hash": "oPFD5xhXn0UKIMxKs8b+TQ=="
+          "hash": "894JARI7B2X25n4mAd3Z8w=="
         }
       },
       "is_incremental": false,
@@ -1172,7 +1172,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Patterns.FSMState.html",
-          "hash": "ev4zkfktnegCRmHSMt6sSQ=="
+          "hash": "C8GD1tB2wj69EcIYcXns8w=="
         }
       },
       "is_incremental": false,
@@ -1184,7 +1184,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Patterns.FSMTransition.html",
-          "hash": "v9iUEnbR5ttveQoMzVAMEQ=="
+          "hash": "aWYX7jr8hCm8mJV7SM+gRw=="
         }
       },
       "is_incremental": false,
@@ -1196,7 +1196,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Patterns.FiniteStateMachine.html",
-          "hash": "jd2rrfQdoCLIOrg5XwphAg=="
+          "hash": "Z9Jha0aT9xFUp26rbFMT6A=="
         }
       },
       "is_incremental": false,
@@ -1208,7 +1208,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Patterns.Guard.html",
-          "hash": "4LyyRIYct/7Gn+wh4WxJOw=="
+          "hash": "xgHiRymRQFmlbjwLFH6MFg=="
         }
       },
       "is_incremental": false,
@@ -1220,7 +1220,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Patterns.ICommand.html",
-          "hash": "A5HkGtcbLnnBu2BbWxAAAg=="
+          "hash": "75QNXQA9moU2NAmp+PYtWw=="
         }
       },
       "is_incremental": false,
@@ -1232,7 +1232,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Patterns.ICommandReceiver.html",
-          "hash": "F+x5w6P7AUEdTQBJLWSDtg=="
+          "hash": "8rghzdEzAHquArw5sEnd/Q=="
         }
       },
       "is_incremental": false,
@@ -1244,7 +1244,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Patterns.IEventObserver.html",
-          "hash": "z+VxCyu8lcsuBCCV+zv0oA=="
+          "hash": "9LqIgbD1xjlEhKgs1J+H8A=="
         }
       },
       "is_incremental": false,
@@ -1256,7 +1256,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Patterns.IObserver.html",
-          "hash": "vNuhDtPi3+50dQ1nVdjG9w=="
+          "hash": "HPZcwopikuCB7u1VOiKm/g=="
         }
       },
       "is_incremental": false,
@@ -1268,7 +1268,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Patterns.IStateMachine.html",
-          "hash": "pHFQCjH6T7pQRjKq9mQNfA=="
+          "hash": "WOM8mY36N57Ckl5UDxeIJA=="
         }
       },
       "is_incremental": false,
@@ -1280,7 +1280,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Patterns.Singleton-1.html",
-          "hash": "hxmn9nC88XPOK+sEOw6YZw=="
+          "hash": "UCfbjp7OLJx89SsGCjSMxQ=="
         }
       },
       "is_incremental": false,
@@ -1292,7 +1292,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Patterns.Subject.html",
-          "hash": "QTkIxPihBUFhq/uokVCa8w=="
+          "hash": "hBdXziq5W5cunIOFvdUe8w=="
         }
       },
       "is_incremental": false,
@@ -1316,7 +1316,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.PhysxMonoBehaviour.html",
-          "hash": "OOpOW2JHClDFcYWf5t9lNg=="
+          "hash": "nKQtg5VLMTaieWm6ote8CA=="
         }
       },
       "is_incremental": false,
@@ -1328,7 +1328,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.ReadOnlyAttribute.html",
-          "hash": "wgaB4ef/NlAN8jHHGHW70Q=="
+          "hash": "mzFMuAmcuj1MedRhjQPyOQ=="
         }
       },
       "is_incremental": false,
@@ -1340,7 +1340,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.ScreenshotTaker.html",
-          "hash": "tRtJ4oTlwN+DqNAo3Bj0Pg=="
+          "hash": "jz4fHaj16VzfUDoPd7Jusg=="
         }
       },
       "is_incremental": false,
@@ -1352,7 +1352,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Started.html",
-          "hash": "X+mND+HaTw8b78Hg8UWOPA=="
+          "hash": "FR1/Hsx2um6OIkFKeuC61w=="
         }
       },
       "is_incremental": false,
@@ -1364,7 +1364,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Stopped.html",
-          "hash": "9eKTNH8e5408yIt8JgwzYA=="
+          "hash": "7sGOTlcLlKOkvISlvdbdUQ=="
         }
       },
       "is_incremental": false,
@@ -1376,7 +1376,31 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.StringList.html",
-          "hash": "8Mw1KUD+zx4ctj8NiLI3pw=="
+          "hash": "C2VOQALXpAu/SkOIz4mGhQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Tests.Core.Tests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Tests.Core.Tests.html",
+          "hash": "qKk27sHzZEDyqS67tHFT2g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/Maria.Tests.Core.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Maria.Tests.Core.html",
+          "hash": "0zYMHGXpW3eNTFp73MF/6w=="
         }
       },
       "is_incremental": false,
@@ -1388,7 +1412,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Threading.CopyData.html",
-          "hash": "iSWeBmCNnddcqeqFw3zrew=="
+          "hash": "rma9EMkEj/pvpxPzj+pGig=="
         }
       },
       "is_incremental": false,
@@ -1400,7 +1424,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Threading.CopyTask.html",
-          "hash": "k40yT0i59jyNDYBmBTieWA=="
+          "hash": "5kvLffgyCsx4T2vyFJYbSQ=="
         }
       },
       "is_incremental": false,
@@ -1412,7 +1436,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Threading.ITask.html",
-          "hash": "K4w5fH7x6FAcpUWW3Eobyw=="
+          "hash": "vYSEm8FBbdzH8L5+WkdaVA=="
         }
       },
       "is_incremental": false,
@@ -1424,7 +1448,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Threading.Task.Finished.html",
-          "hash": "n3XgNd3/IqiVkEtfvH48ww=="
+          "hash": "GMpKazCuIYo08D/HJwlSXQ=="
         }
       },
       "is_incremental": false,
@@ -1436,7 +1460,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Threading.Task.Started.html",
-          "hash": "ZbW+/j0Nk/osDFtvs/y5+g=="
+          "hash": "1bUtIGedj/xJe9zyupIobg=="
         }
       },
       "is_incremental": false,
@@ -1448,7 +1472,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Threading.Task.html",
-          "hash": "lFCX+OMRKJbgFfn0wja65Q=="
+          "hash": "WRAufi33ecbuzG1q4un0Cg=="
         }
       },
       "is_incremental": false,
@@ -1472,7 +1496,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.TimerCreationInfo.html",
-          "hash": "RWuGu/Vcw+tfo/b23PH+Ew=="
+          "hash": "VNhtk0UCi2+ZjQEJkluPnQ=="
         }
       },
       "is_incremental": false,
@@ -1484,7 +1508,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.TimerEventInfo.html",
-          "hash": "LX186vri3N/W6HGb6Qq0SQ=="
+          "hash": "RCvNOEJ/E4HdzEMuKI18ig=="
         }
       },
       "is_incremental": false,
@@ -1496,7 +1520,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.TimerFinishedBehaviour.html",
-          "hash": "+ePfWXzB0OxWfbiUKy0ofQ=="
+          "hash": "FA5SpV2M2HXPoiix6+ZJ0A=="
         }
       },
       "is_incremental": false,
@@ -1508,7 +1532,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.TimerManager.html",
-          "hash": "JF8UdjnRedeD1ctuUdbJMg=="
+          "hash": "uDo061SYmrowb4GC7gn8Aw=="
         }
       },
       "is_incremental": false,
@@ -1520,7 +1544,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Updated.html",
-          "hash": "nfSbQAXUcWZf3SY0JrEUJw=="
+          "hash": "r3R1AoIbb1RbeHGQjpsYyg=="
         }
       },
       "is_incremental": false,
@@ -1532,7 +1556,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Vector2List.html",
-          "hash": "gvNFBswEF51MoLHY5Wh7lA=="
+          "hash": "udWLguhJpvMei3KgE7zORg=="
         }
       },
       "is_incremental": false,
@@ -1544,7 +1568,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Vector3List.html",
-          "hash": "aEKQ3Za+SNjTDyrqp2divg=="
+          "hash": "Tg3i+q/J/4thXoFhg7GpVQ=="
         }
       },
       "is_incremental": false,
@@ -1556,7 +1580,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.Vector4List.html",
-          "hash": "pmPGWqJYYJc9Wdb59uE2xA=="
+          "hash": "UPDr4FDa/pTHwMxRKdLOWg=="
         }
       },
       "is_incremental": false,
@@ -1568,7 +1592,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Maria.WarningIfNullAttribute.html",
-          "hash": "TvbHnLeR8zybiwIo+DWwLQ=="
+          "hash": "si4T14aPa2vAs2+CYbzfnw=="
         }
       },
       "is_incremental": false,
@@ -1592,7 +1616,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "9QluT3wjBWtp+jW8SfDVYQ=="
+          "hash": "QPk3ccEOnK2iNS1syKMV+A=="
         }
       },
       "is_incremental": false,
@@ -1631,7 +1655,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 129,
+          "total_file_count": 131,
           "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {

@@ -564,6 +564,16 @@
     "title": "Class StringList | Maria",
     "keywords": "Class StringList An InspectorList of type string . Inheritance Object InspectorList InspectorList < String > StringList Implements IList < String > Inherited Members InspectorList<String>.Count InspectorList<String>.IsReadOnly InspectorList<String>.Item[Int32] InspectorList<String>.GetEnumerator() InspectorList<String>.Add(String) InspectorList<String>.Clear() InspectorList<String>.Contains(String) InspectorList<String>.CopyTo(String[], Int32) InspectorList<String>.Remove(String) InspectorList<String>.IndexOf(String) InspectorList<String>.Insert(Int32, String) InspectorList<String>.RemoveAt(Int32) Namespace : Maria Assembly : Maria.Platform.dll Syntax public class StringList : InspectorList<string>, IList<string> Implements IList<> Extension Methods ObjectExtensions.ThrowIfNull(Object, String)"
   },
+  "api/Maria.Tests.Core.html": {
+    "href": "api/Maria.Tests.Core.html",
+    "title": "Namespace Maria.Tests.Core | Maria",
+    "keywords": "Namespace Maria.Tests.Core Classes Tests"
+  },
+  "api/Maria.Tests.Core.Tests.html": {
+    "href": "api/Maria.Tests.Core.Tests.html",
+    "title": "Class Tests | Maria",
+    "keywords": "Class Tests Inheritance Object Tests Inherited Members Object.Equals(Object) Object.Equals(Object, Object) Object.GetHashCode() Object.GetType() Object.MemberwiseClone() Object.ReferenceEquals(Object, Object) Object.ToString() Namespace : Maria.Tests.Core Assembly : Maria.Tests.dll Syntax public class Tests Methods | Improve this Doc View Source TestClamp() Declaration public void TestClamp() Extension Methods ObjectExtensions.ThrowIfNull(Object, String)"
+  },
   "api/Maria.Threading.CopyData.html": {
     "href": "api/Maria.Threading.CopyData.html",
     "title": "Class CopyData | Maria",

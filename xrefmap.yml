@@ -7953,6 +7953,31 @@ references:
   commentId: T:Maria.StringList
   fullName: Maria.StringList
   nameWithType: StringList
+- uid: Maria.Tests.Core
+  name: Maria.Tests.Core
+  href: api/Maria.Tests.Core.html
+  commentId: N:Maria.Tests.Core
+  fullName: Maria.Tests.Core
+  nameWithType: Maria.Tests.Core
+- uid: Maria.Tests.Core.Tests
+  name: Tests
+  href: api/Maria.Tests.Core.Tests.html
+  commentId: T:Maria.Tests.Core.Tests
+  fullName: Maria.Tests.Core.Tests
+  nameWithType: Tests
+- uid: Maria.Tests.Core.Tests.TestClamp
+  name: TestClamp()
+  href: api/Maria.Tests.Core.Tests.html#Maria_Tests_Core_Tests_TestClamp
+  commentId: M:Maria.Tests.Core.Tests.TestClamp
+  fullName: Maria.Tests.Core.Tests.TestClamp()
+  nameWithType: Tests.TestClamp()
+- uid: Maria.Tests.Core.Tests.TestClamp*
+  name: TestClamp
+  href: api/Maria.Tests.Core.Tests.html#Maria_Tests_Core_Tests_TestClamp_
+  commentId: Overload:Maria.Tests.Core.Tests.TestClamp
+  isSpec: "True"
+  fullName: Maria.Tests.Core.Tests.TestClamp
+  nameWithType: Tests.TestClamp
 - uid: Maria.Threading
   name: Maria.Threading
   href: api/Maria.Threading.html
